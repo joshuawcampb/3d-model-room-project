@@ -48,9 +48,13 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 
 ## What I Learned
 This project served as my introduction to Autodesk Maya and the core principles of 3D modeling. Starting with simple primitive shapes, I learned how to transform them into detailed objects using essential modeling techniques such as extrusions, bevels, loop cuts, and polygon editing.
+
 I became comfortable using Maya's transformation tools—including moving, rotating, and scaling objects—to build accurate models while maintaining proper proportions throughout the scene. Working directly with vertices, edges, and faces gave me a better understanding of how geometry is constructed and refined.
+
 As the project progressed, I learned the importance of clean topology by creating efficient polygon layouts, minimizing unnecessary geometry, and primarily using quad-based meshes. This helped me understand how topology affects both model quality and future editing.
+
 Beyond modeling, I learned the complete workflow for preparing assets by creating UV maps, applying textures and materials, and using normal maps to add realistic surface detail without increasing polygon count.
+
 Overall, this project provided a strong foundation in the fundamental concepts and workflows used in 3D environment creation and significantly improved my confidence using Autodesk Maya.
 
 ## Challenges
