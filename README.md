@@ -13,6 +13,19 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 ## Tools Used
 - Autodesk Maya
 
+## Model Pictures
+
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_Guitar_Angle_003.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_Camera_Angle_001.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_FernWithChairs_Angle_002.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarCorner_Angle_006.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom2_Angle_007.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg)
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg)
+
 ## Skills Developed
 ### 3D Modeling
 - Polygon modeling
@@ -59,17 +72,6 @@ Overall, this project provided a strong foundation in the fundamental concepts a
 
 ## Challenges
 Because the project relied entirely on reference images, estimating object dimensions, proportions, and placement required careful observation and repeated refinement. Matching the appearance of real-world materials through UV mapping and texturing also required experimentation and attention to detail.
-
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_Guitar_Angle_003.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_Camera_Angle_001.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_FernWithChairs_Angle_002.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarCorner_Angle_006.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom2_Angle_007.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg)
-![](guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg)
 
 ## Key Takeaways
 - Built a complete 3D environment from real-world reference images.
