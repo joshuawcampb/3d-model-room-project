@@ -7,9 +7,6 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 <details>
   <summary>📸 Click to view project screenshots</summary>
   <br>
-  <img src="images/slide1.png" alt="First Slide" width="100%">
-  <img src="images/slide2.png" alt="Second Slide" width="100%">
-  <img src="images/slide3.png" alt="Third Slide" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg" width="100%">
