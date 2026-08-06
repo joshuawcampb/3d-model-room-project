@@ -4,11 +4,13 @@
 This project was completed as part of learning Autodesk Maya and the fundamentals of 3D modeling. Using only reference images of a real-world room, I recreated the environment by modeling each object individually and assembling them into a complete 3D scene.
 Throughout this project, I gained hands-on experience with the complete 3D asset creation workflow, including polygon modeling, UV mapping, texturing, material creation, and applying normal maps. Recreating an existing room challenged me to accurately match proportions, scale, and layout while developing an understanding of industry-standard modeling practices.
 
+![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg)
+
+## Model Pictures
 <details>
   <summary>📸 Click to view project screenshots</summary>
   <br>
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg" width="100%">
-  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Guitar_Angle_003.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Camera_Angle_001.jpg" width="100%">
@@ -18,10 +20,6 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg" width="100%">
   <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg" width="100%">
 </details>
-
-## Model Pictures
-
-
 
 ## Objectives
 - Learn the fundamentals of 3D modeling in Autodesk Maya.
