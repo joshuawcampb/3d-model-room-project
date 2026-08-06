@@ -7,16 +7,19 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 <details>
   <summary>📸 Click to view project screenshots</summary>
   <br>
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_Guitar_Angle_003.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_Camera_Angle_001.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_FernWithChairs_Angle_002.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarCorner_Angle_006.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom2_Angle_007.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg)
-  ![](guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg)
+  <img src="images/slide1.png" alt="First Slide" width="100%">
+  <img src="images/slide2.png" alt="Second Slide" width="100%">
+  <img src="images/slide3.png" alt="Third Slide" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea1_Angle_008.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea3_Angle_010.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Guitar_Angle_003.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Camera_Angle_001.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_FernWithChairs_Angle_002.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarCorner_Angle_006.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom2_Angle_007.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg" width="100%">
+  <img src="guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg" width="100%">
 </details>
 
 ## Model Pictures
