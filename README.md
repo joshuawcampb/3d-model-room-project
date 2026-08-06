@@ -6,7 +6,7 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 
 ![](guitar_room_Joshua_Campbell/images/GuitarRoom_GuitarRoomArea2_Angle_009.jpg)
 
-## Model Pictures
+## Room Replica Model Pictures
 <details>
   <summary>📸 Click to view project screenshots</summary>
   <br>
