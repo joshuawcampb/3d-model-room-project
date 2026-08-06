@@ -1,17 +1,8 @@
-# 3d-room-replica-maya
+# 3D Room Replica (Autodesk Maya)
 
 ## Overview
 This project was completed as part of learning Autodesk Maya and the fundamentals of 3D modeling. Using only reference images of a real-world room, I recreated the environment by modeling each object individually and assembling them into a complete 3D scene.
 Throughout this project, I gained hands-on experience with the complete 3D asset creation workflow, including polygon modeling, UV mapping, texturing, material creation, and applying normal maps. Recreating an existing room challenged me to accurately match proportions, scale, and layout while developing an understanding of industry-standard modeling practices.
-
-## Objectives
-- Learn the fundamentals of 3D modeling in Autodesk Maya.
-- Recreate a real-world room using reference images.
-- Develop a complete workflow from modeling to texturing.
-- Practice creating clean, organized, and efficient 3D assets.
-
-## Tools Used
-- Autodesk Maya
 
 ## Model Pictures
 
@@ -25,6 +16,15 @@ Throughout this project, I gained hands-on experience with the complete 3D asset
 ![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom2_Angle_007.jpg)
 ![](guitar_room_Joshua_Campbell/images/GuitarRoom_OtherRoom_Angle_005.jpg)
 ![](guitar_room_Joshua_Campbell/images/GuitarRoom_Shelf_Angle_004.jpg)
+
+## Objectives
+- Learn the fundamentals of 3D modeling in Autodesk Maya.
+- Recreate a real-world room using reference images.
+- Develop a complete workflow from modeling to texturing.
+- Practice creating clean, organized, and efficient 3D assets.
+
+## Tools Used
+- Autodesk Maya
 
 ## Skills Developed
 ### 3D Modeling
